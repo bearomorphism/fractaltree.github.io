@@ -6,7 +6,7 @@ var cb, cs;
 var button;
 
 function setup() {
-  createCanvas(600, 600);
+  createCanvas(800, 600);
   slider_1 = createSlider(-PI, PI, PI / 4, 0.01);
   slider_2 = createSlider(-PI, PI, PI / 4, 0.01);
   slider_3 = createSlider(0, 13, 5, 1);
